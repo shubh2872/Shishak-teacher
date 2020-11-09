@@ -1,5 +1,5 @@
 # **Shikshak** - HACK PHS
-By Raghav Rathi
+
 PS- Shikshak in English means Teacher
 
 ![Logo](https://www.flaticon.com/svg/static/icons/svg/2762/2762438.svg)
